@@ -4,7 +4,7 @@
 
 > trilha Explorer 
 
-Proje construído do evento Next Level Week da Rocketseat.
+Projeto construído do evento Next Level Week da Rocketseat.
 
 [Clique aqui para acessar](https://rebanned.github.io/nlw-esports-explorer/)
 
